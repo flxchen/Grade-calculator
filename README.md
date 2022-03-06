@@ -1,1 +1,2 @@
 # Grade-generator
+This is a grade generator. It calculates the weighted grade based on user input. The code is written in Java, it compiles and prints the grade to console. One tiny issue is that the Scanner object is never closed. If not, the compilor throws java.util.NoSuchElementException: No line found. Any suggestions might help. 
